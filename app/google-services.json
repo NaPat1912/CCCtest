@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "621535086555",
+    "firebase_url": "https://ccctest-fadc8.firebaseio.com",
+    "project_id": "ccctest-fadc8",
+    "storage_bucket": "ccctest-fadc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621535086555:android:109307548a515700",
+        "android_client_info": {
+          "package_name": "com.tisconet.ccctest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621535086555-s663avgj0q4kqnjfo53ss12at2stan62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tisconet.ccctest",
+            "certificate_hash": "980dc9eaee07cb9d706dc352b98774d4485073eb"
+          }
+        },
+        {
+          "client_id": "621535086555-2s4iuo5pqqano9d7h1tsmmjhihphidt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlS7wquldijHScGiu-zcAkkAe0uNGk2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621535086555-2s4iuo5pqqano9d7h1tsmmjhihphidt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
