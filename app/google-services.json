@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "621535086555-igor1le1vvj8ups03ll7bj426uu7gvd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tisconet.ccctest",
+            "certificate_hash": "c77150ff9bafb2507310a6528347edaf49d67f3e"
+          }
+        },
+        {
           "client_id": "621535086555-s663avgj0q4kqnjfo53ss12at2stan62.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
